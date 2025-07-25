@@ -1,0 +1,10 @@
+buruk,-1
+lambat,-1
+susah,-1
+jelek,-1
+error,-1
+tidak,-1
+kecewa,-1
+gagal,-1
+ribet,-1
+benci,-1
